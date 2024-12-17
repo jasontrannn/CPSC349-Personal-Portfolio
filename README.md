@@ -1,29 +1,23 @@
-\# Personal Portfolio Website
 
-This is my \*\*Personal Portfolio Website\*\* for showcasing projects,
-skills, and contact information. The website is built using
-\*\*HTML\*\*, \*\*CSS\*\*, and \*\*Bootstrap\*\*.
+markdown
+Copy code
+# Personal Portfolio Website
 
-\-\--
+This is my **Personal Portfolio Website** for showcasing projects, skills, and contact information. The website is built using **HTML**, **CSS**, and **Bootstrap**.
 
-\## Live Demo
+---
 
-Check out the live site here: \[Portfolio Website
-Live\](https://jasontrannn.github.io/CPSC349-Personal-Portfolio/)
+## Live Demo
 
-\-\--
+Check out the live site here: [Portfolio Website Live](https://jasontrannn.github.io/CPSC349-Personal-Portfolio/)
 
-\## How to Run the Project
+---
 
-\### 1. Clone the Repository To get a local copy of the project, run the
-following command:
+## How to Run the Project
 
-\`\`\`bash git clone
-https://github.com/jasontrannn/CPSC349-Personal-Portfolio.git
+1. Download the Project Zip File
+2. Extract the Folder on dekstop
+3. Open the folder and find index.html
+4. Open index.html in any browswer
 
-\### 2. Navigate to the Project Folder Move to the downloaded folder: cd
-CPSC349-Personal-Portfolio
 
-\### 3. Open the Website Locate the index.html file in the project
-folder. Open it in any modern web browser (e.g., Google Chrome,
-Firefox).
